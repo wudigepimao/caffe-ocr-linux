@@ -294,7 +294,6 @@ void test_ocr_english(const string& imgfolder, const string& modelfolder, const 
 	int n = 0;
 	int caseoffset = 'A' - 'a';
 	string line;
-
 	while (getline(fslexicon, line))
 	{
 		if (line.size() == 0)
@@ -332,6 +331,7 @@ void test_ocr_english(const string& imgfolder, const string& modelfolder, const 
 
 	for (size_t i=0;i<imgs.size();i++)
 	{
+
 		string imgfile = imgs[i];
 		cv::Mat img = cv::imread(imgfile, CV_LOAD_IMAGE_COLOR);
 		int w = img.cols, h = img.rows;
@@ -351,7 +351,6 @@ void test_ocr_english(const string& imgfolder, const string& modelfolder, const 
 
 		vector<int> shape;
 		vector<float> pred = pCNN->GetOutputFeatureMap(img, shape);
-
 		int end = clock();
 		sumspend += (end - start);
 
@@ -368,7 +367,7 @@ void test_ocr_english(const string& imgfolder, const string& modelfolder, const 
 
 		float min_ctc_loss = 1000;
 		vector<int> outshape;
-		vector<float> activitas = pCNN->GetLayerFeatureMaps("fc1x", outshape);;
+		vector<float> activitas = pCNN->GetLayerFeatureMaps("fc1x5990", outshape);;
 		int timesteps = outshape[0];
 		int min_ctc_idx = -1;
 		for (size_t j = 0; j < ress.size(); j++)
@@ -412,6 +411,9 @@ void test_ocr_chinese(const string& imgfolder, const string& modelfolder)
 	cout<<"Test-Point 0"<<endl;
 	int wstd = 0, hstd = 0;
 	pCNN->GetInputImageSize(wstd, hstd);
+
+
+	//cout<<"wstd "<<wstd<<" hstd"<<hstd<<endl;
 	//get alphabet
 	vector<string> alphabets = pCNN->GetLabels();
         printf("labels:%d\n",alphabets.size());
@@ -454,8 +456,10 @@ void test_ocr_chinese(const string& imgfolder, const string& modelfolder)
 
 		int w1 = hstd*w / h;
 		if (w1 != w && h != hstd)
-			cv::resize(img, img, cv::Size(w1, hstd));
+			//cv::resize(img, img, cv::Size(w1, hstd));
+			cv::resize(img, img, cv::Size(wstd, hstd));
 
+		//cout<<"img w:"<<img.cols<<"  img h"<<img.rows;
 		clock_t start = clock();
 		caffe::Timer timer;
                 timer.Start();
@@ -497,7 +501,7 @@ int main(int argc, char *argv[])
 					  cout<<"Test Point Start"<<endl;
             test_ocr_chinese(string(imgfolder), string(modelfolder));
         }else{
-            string lexiconfile=NULL;
+            string lexiconfile=string(modelfolder)+"/lexicon.txt";
             test_ocr_english(imgfolder, modelfolder, lexiconfile);
         }
 

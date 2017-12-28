@@ -1,0 +1,45 @@
+2017-12-28 21:17:40,632 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_618469bd-ebcc-11e7-a112-c821587f1c5a.jpg KK00954 K00954
+2017-12-28 21:17:40,686 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f230037-ebcc-11e7-a112-c821587f1c5a.jpg SS18293 S18293
+2017-12-28 21:17:40,756 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc05419-ebcc-11e7-a112-c821587f1c5a.jpg LL22189 L22189
+2017-12-28 21:17:40,873 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f22fee2-ebcc-11e7-a112-c821587f1c5a.jpg LL81347 L81347
+2017-12-28 21:17:40,973 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f22ff1e-ebcc-11e7-a112-c821587f1c5a.jpg BB73871 B73871
+2017-12-28 21:17:41,404 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_61846a2e-ebcc-11e7-a112-c821587f1c5a.jpg BB04515 B04515
+2017-12-28 21:17:41,437 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc053db-ebcc-11e7-a112-c821587f1c5a.jpg KK39918 K39918
+2017-12-28 21:17:41,479 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_60543be0-ebcc-11e7-a112-c821587f1c5a.jpg AA50577 A50577
+2017-12-28 21:17:41,524 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5bf12006-ebcc-11e7-a112-c821587f1c5a.jpg NN95237 N95237
+2017-12-28 21:17:41,536 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_60543cbf-ebcc-11e7-a112-c821587f1c5a.jpg JJ71176 J71176
+2017-12-28 21:17:41,630 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_60543d43-ebcc-11e7-a112-c821587f1c5a.jpg EE71660 E71660
+2017-12-28 21:17:41,887 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc05531-ebcc-11e7-a112-c821587f1c5a.jpg AA77483 A77483
+2017-12-28 21:17:42,190 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_618469bb-ebcc-11e7-a112-c821587f1c5a.jpg NN19069 N19069
+2017-12-28 21:17:42,357 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_60543bde-ebcc-11e7-a112-c821587f1c5a.jpg BB35253 B35253
+2017-12-28 21:17:42,378 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc053be-ebcc-11e7-a112-c821587f1c5a.jpg AA21420 A21420
+2017-12-28 21:17:42,577 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5df17a20-ebcc-11e7-a112-c821587f1c5a.jpg NN57297 N57297
+2017-12-28 21:17:42,759 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc05382-ebcc-11e7-a112-c821587f1c5a.jpg BB80224 B80224
+2017-12-28 21:17:42,940 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f22ffff-ebcc-11e7-a112-c821587f1c5a.jpg LL27539 L27539
+2017-12-28 21:17:43,179 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc054d1-ebcc-11e7-a112-c821587f1c5a.jpg JJ33668 JJ3668
+2017-12-28 21:17:43,332 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc05499-ebcc-11e7-a112-c821587f1c5a.jpg NN53308 N53308
+2017-12-28 21:17:43,413 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc05547-ebcc-11e7-a112-c821587f1c5a.jpg HH73928 H73928
+2017-12-28 21:17:43,674 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_61846ae0-ebcc-11e7-a112-c821587f1c5a.jpg NN45820 N45820
+2017-12-28 21:17:43,698 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc053b4-ebcc-11e7-a112-c821587f1c5a.jpg HH00115 HH0115
+2017-12-28 21:17:43,832 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f230054-ebcc-11e7-a112-c821587f1c5a.jpg HH29845 H29845
+2017-12-28 21:17:44,333 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_618469c8-ebcc-11e7-a112-c821587f1c5a.jpg NN55032 N55032
+2017-12-28 21:17:44,421 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_60543c09-ebcc-11e7-a112-c821587f1c5a.jpg KK09800 K09800
+2017-12-28 21:17:44,437 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_60543c06-ebcc-11e7-a112-c821587f1c5a.jpg EE44459 E44459
+2017-12-28 21:17:44,515 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_61846a8e-ebcc-11e7-a112-c821587f1c5a.jpg LL35770 L35770
+2017-12-28 21:17:44,590 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f230011-ebcc-11e7-a112-c821587f1c5a.jpg KK50729 K50729
+2017-12-28 21:17:44,808 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5df17bba-ebcc-11e7-a112-c821587f1c5a.jpg LL13519 L13519
+2017-12-28 21:17:44,884 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc054c2-ebcc-11e7-a112-c821587f1c5a.jpg AA05734 A05734
+2017-12-28 21:17:45,023 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_61846a10-ebcc-11e7-a112-c821587f1c5a.jpg SS44575 S44575
+2017-12-28 21:17:45,342 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f22ffa3-ebcc-11e7-a112-c821587f1c5a.jpg LL18313 L18313
+2017-12-28 21:17:45,398 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f22ff00-ebcc-11e7-a112-c821587f1c5a.jpg NN79661 N79661
+2017-12-28 21:17:45,407 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5cc05347-ebcc-11e7-a112-c821587f1c5a.jpg CC06803 C06803
+2017-12-28 21:17:45,593 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f22febd-ebcc-11e7-a112-c821587f1c5a.jpg KK41233 K41233
+2017-12-28 21:17:45,791 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5df179a4-ebcc-11e7-a112-c821587f1c5a.jpg AA70006 A70006
+2017-12-28 21:17:45,945 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f22fffb-ebcc-11e7-a112-c821587f1c5a.jpg CC53598 C53598
+2017-12-28 21:17:45,981 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_618469f2-ebcc-11e7-a112-c821587f1c5a.jpg ZZ05691 Z05691
+2017-12-28 21:17:46,043 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5f22ff72-ebcc-11e7-a112-c821587f1c5a.jpg KK18641 K18641
+2017-12-28 21:17:46,106 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_60543c55-ebcc-11e7-a112-c821587f1c5a.jpg ZZ56492 Z56492
+2017-12-28 21:17:46,239 - test-result-cal.py[line:88] - INFO: Wrong /images/plah_plate_5df17b36-ebcc-11e7-a112-c821587f1c5a.jpg HH24140 H24140
+2017-12-28 21:17:46,833 - test-result-cal.py[line:92] - INFO: Correct Counts: 2958
+2017-12-28 21:17:46,833 - test-result-cal.py[line:93] - INFO: Wrong Counts: 42
+2017-12-28 21:17:46,833 - test-result-cal.py[line:94] - INFO: Cal End

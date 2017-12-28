@@ -1,0 +1,25 @@
+2017-12-22 15:50:13,879 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_edc27eb0-e4cc-11e7-a7bd-c821587f1c5a.jpg AF11148 AF1148
+2017-12-22 15:50:13,957 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f00e7a78-e4cc-11e7-a7bd-c821587f1c5a.jpg AT33354 AT3354
+2017-12-22 15:50:13,975 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f270c249-e4cc-11e7-a7bd-c821587f1c5a.jpg ZW44443 ZW4443
+2017-12-22 15:50:14,113 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f13fdbcb-e4cc-11e7-a7bd-c821587f1c5a.jpg HB55543 HB5543
+2017-12-22 15:50:14,300 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f270c244-e4cc-11e7-a7bd-c821587f1c5a.jpg CK55990 CK555990
+2017-12-22 15:50:14,621 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f13fdbef-e4cc-11e7-a7bd-c821587f1c5a.jpg GE22258 GE2258
+2017-12-22 15:50:14,648 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f13fdd2b-e4cc-11e7-a7bd-c821587f1c5a.jpg NI99904 NI9904
+2017-12-22 15:50:14,876 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f13fdc97-e4cc-11e7-a7bd-c821587f1c5a.jpg AC11148 AC1148
+2017-12-22 15:50:14,904 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f270c227-e4cc-11e7-a7bd-c821587f1c5a.jpg AU00073 AU0073
+2017-12-22 15:50:14,966 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_eedd4400-e4cc-11e7-a7bd-c821587f1c5a.jpg HK55543 HK5543
+2017-12-22 15:50:15,298 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f270c382-e4cc-11e7-a7bd-c821587f1c5a.jpg HD88883 HD8883
+2017-12-22 15:50:15,408 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f270c1b3-e4cc-11e7-a7bd-c821587f1c5a.jpg JQ55539 JQ5539
+2017-12-22 15:50:15,563 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f00e797a-e4cc-11e7-a7bd-c821587f1c5a.jpg NC88873 NC8873
+2017-12-22 15:50:15,813 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f00e7a96-e4cc-11e7-a7bd-c821587f1c5a.jpg LY88894 LY8894
+2017-12-22 15:50:15,883 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_edc27ea9-e4cc-11e7-a7bd-c821587f1c5a.jpg NK66664 NK6664
+2017-12-22 15:50:16,239 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f270c330-e4cc-11e7-a7bd-c821587f1c5a.jpg HN00099 HN0099
+2017-12-22 15:50:16,812 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f13fdbac-e4cc-11e7-a7bd-c821587f1c5a.jpg HE55509 HE5509
+2017-12-22 15:50:17,772 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_edc27f90-e4cc-11e7-a7bd-c821587f1c5a.jpg CC11118 CC1118
+2017-12-22 15:50:18,749 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f270c285-e4cc-11e7-a7bd-c821587f1c5a.jpg NJ66640 NJ6640
+2017-12-22 15:50:18,889 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f13fdc3b-e4cc-11e7-a7bd-c821587f1c5a.jpg NE77700 NE7700
+2017-12-22 15:50:19,200 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f270c2b0-e4cc-11e7-a7bd-c821587f1c5a.jpg GP55500 GP5500
+2017-12-22 15:50:19,248 - test-result-cal.py[line:88] - INFO: Wrong /images/pla_plate_f13fdc03-e4cc-11e7-a7bd-c821587f1c5a.jpg GJ00075 GJ0075
+2017-12-22 15:50:19,918 - test-result-cal.py[line:92] - INFO: Correct Counts: 2978
+2017-12-22 15:50:19,918 - test-result-cal.py[line:93] - INFO: Wrong Counts: 22
+2017-12-22 15:50:19,919 - test-result-cal.py[line:94] - INFO: Cal End
