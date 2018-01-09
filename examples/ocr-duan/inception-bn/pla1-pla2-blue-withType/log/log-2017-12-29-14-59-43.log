@@ -1,7 +1,7 @@
 I1229 14:59:43.713937 12185 caffe.cpp:213] CUDNN version: 5105
 I1229 14:59:43.714136 12185 caffe.cpp:229] Using GPUs 0
 I1229 14:59:43.754815 12185 caffe.cpp:234] GPU 0: GeForce GTX 1050 Ti
-I1229 14:59:43.972087 12185 solver.cpp:44] Initializing solver from parameters: 
+I1229 14:59:43.972087 12185 solver.cpp:44] Initializing solver from parameters:
 test_iter: 100
 test_interval: 300
 base_lr: 1e-05
@@ -27,7 +27,7 @@ I1229 14:59:43.972399 12185 solver.cpp:87] Creating training net from net file: 
 I1229 14:59:43.973075 12185 net.cpp:294] The NetState phase (0) differed from the phase (1) specified by a rule in layer data
 I1229 14:59:43.973142 12185 net.cpp:294] The NetState phase (0) differed from the phase (1) specified by a rule in layer acc
 I1229 14:59:43.973170 12185 net.cpp:294] The NetState phase (0) differed from the phase (1) specified by a rule in layer accuracy_type
-I1229 14:59:43.973609 12185 net.cpp:51] Initializing net from parameters: 
+I1229 14:59:43.973609 12185 net.cpp:51] Initializing net from parameters:
 name: "inception_bn"
 state {
   phase: TRAIN
@@ -35,7 +35,7 @@ state {
   stage: ""
 }
 layer {
-  name: "data"
+  name: "data""
   type: "ImageData"
   top: "data"
   top: "label"
@@ -247,7 +247,7 @@ layer {
   }
 }
 layer {
-  name: "inception_3a_1x1_bn"
+  name: "inception_3a_1x1_bn""
   type: "BatchNorm"
   bottom: "inception_3a_1x1"
   top: "inception_3a_1x1"
@@ -1797,7 +1797,7 @@ I1229 14:59:49.473078 12185 net.cpp:242] This network produces output loss_type
 I1229 14:59:49.473126 12185 net.cpp:255] Network initialization done.
 I1229 14:59:49.473709 12185 solver.cpp:172] Creating test net (#0) specified by net file: examples/ocr-duan/inception-bn/pla1-pla2-blue-withType/train_val.prototxt
 I1229 14:59:49.473773 12185 net.cpp:294] The NetState phase (1) differed from the phase (0) specified by a rule in layer data
-I1229 14:59:49.474119 12185 net.cpp:51] Initializing net from parameters: 
+I1229 14:59:49.474119 12185 net.cpp:51] Initializing net from parameters:
 name: "inception_bn"
 state {
   phase: TEST
